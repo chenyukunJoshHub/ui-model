@@ -21,5 +21,21 @@
   "bugs": {
     "url": "https://github.com/ui-model/ui-model/issues"
   },
-  "homepage": "https://github.com/ui-model/ui-model#readme"
+  "homepage": "https://github.com/ui-model/ui-model#readme",
+  "dependencies": {
+    "rxjs": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/jasmine": "2.5.38",
+    "@types/node": "^6.0.54",
+    "jasmine-core": "2.5.2",
+    "karma": "1.2.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-cli": "^1.0.1",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-typescript": "^2.1.5",
+    "tslint": "^4.2.0",
+    "typescript": "^2.1.4"
+  }
 }
